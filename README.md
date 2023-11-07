@@ -62,3 +62,4 @@ Early detection of crop diseases and adverse weather conditions.
 Improved decision-making for crop management.
 Enhanced convenience and efficiency for farmers.
 The IoT Crop Monitoring System empowers farmers with actionable insights, allowing them to make data-driven decisions and improve agricultural practices while contributing to sustainable farming practices.
+"#mtproject"
